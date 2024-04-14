@@ -11,7 +11,6 @@ display the probability density function graph as well as a histogram by the min
 display in the graphics the mean, variance, and quartiles of the waiting times. Please pay
 attention to the various units of time!
 
-
 """
 
 import numpy as np

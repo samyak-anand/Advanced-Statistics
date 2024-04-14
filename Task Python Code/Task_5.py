@@ -19,6 +19,7 @@ y= y[inds]
 print(x.shape)
 print(y.shape)
 
+
 #plotting the Polynomial function
 fig, ax = plt.subplots(figsize=(15, 8))
 plt.scatter(x,y, color='red')
